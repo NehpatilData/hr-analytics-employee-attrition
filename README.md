@@ -39,19 +39,19 @@ The honest takeaway: attrition is spread fairly evenly across the workforce. HR 
 ## Dashboard Preview
 
 Built in Power BI Desktop. Four pages with KPI cards, slicers, comparison charts and an employee-level table.
-
 ### HR Overview
-![HR Overview](Dashboard/screenshots/HR_Overview.png)
+![HR Overview](Dashboard/screenshot/HR_overview.png)
+
 
 ### Attrition Analysis
-![Attrition Analysis](Dashboard/screenshots/Attrition_Analysis.png)
+![Attrition Analysis](Dashboard/screenshot/Attrition_Analysis.png)
+
 
 ### Employee Insights
-![Employee Insights](Dashboard/screenshots/Employee_Insights.png)
+![Employee Insights](Dashboard/screenshot/Employee_insigth.png)
 
 ### Employee Details
-![Employee Details](Dashboard/screenshots/Employee_Details.png)
-
+![Employee Details](Dashboard/screenshot/Employee_details.png)
 ---
 
 ## Business Questions
